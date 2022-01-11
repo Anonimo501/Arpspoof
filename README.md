@@ -12,10 +12,10 @@ Script que automatiza el arranque del ataque arpspoof, solamente debes abrir tu 
 
 ## Uso
 
-git clone https://github.com/Anonimo501/nmap_brute_forece_default.git
+git clone https://github.com/Anonimo501/Arpspoof.git
 
-cd nmap_brute_forece_default/
+cd Arpspoof/
 
-chmod +x nmap_brute_forece_default.sh
+chmod +x Arpspoof.sh
 
-./nmap_brute_forece_default.sh
+./Arpspoof.sh
